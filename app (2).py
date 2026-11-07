@@ -40,6 +40,8 @@ st.markdown("""
 
 BERT_ID = "khadija123it/mbert-multilingual-ner"
 
+
+
 GPT_ID = "khadija123it/balochi-gpt2"
 
 
