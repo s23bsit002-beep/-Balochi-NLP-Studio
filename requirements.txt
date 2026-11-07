@@ -1,0 +1,8 @@
+transformers
+datasets
+accelerate
+huggingface_hub
+pandas
+scikit-learn
+sentencepiece
+streamlit
