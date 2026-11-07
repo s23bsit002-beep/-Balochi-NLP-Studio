@@ -1,8 +1,10 @@
-transformers
+streamlit
+transformers==4.46.3
+torch
 datasets
 accelerate
 huggingface_hub
 pandas
 scikit-learn
 sentencepiece
-streamlit
+safetensors
